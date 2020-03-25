@@ -27,4 +27,4 @@ resource "google_compute_instance" "vm-instance" {
     }
   }
 }
-© 2020 GitHub, Inc.
+
